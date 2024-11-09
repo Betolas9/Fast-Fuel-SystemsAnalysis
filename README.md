@@ -19,12 +19,12 @@ We utilized a comprehensive approach to Systems Analysis, including:
 - Figma: For wireframing and prototyping the user interface.
 
 🚀 Key Features
-Efficient Resource Management: Automated inventory and fuel stock management to minimize waste.
-User-Centric Design: Developed intuitive interfaces to enhance user experience.
-Scalable Architecture: Designed a flexible system that can be easily adapted for future expansions.
-Reporting & Analytics: Integrated reporting features to provide insights into system performance and fuel usage.
+- Efficient Resource Management: Automated inventory and fuel stock management to minimize waste.
+- User-Centric Design: Developed intuitive interfaces to enhance user experience.
+- Scalable Architecture: Designed a flexible system that can be easily adapted for future expansions.
+- Reporting & Analytics: Integrated reporting features to provide insights into system performance and fuel usage.
 
 📈 Outcomes & Learning
-Gained hands-on experience in applying Systems Analysis techniques to real-world problems.
-Improved skills in creating detailed UML diagrams and ERDs to visualize system architecture.
-Learned how to translate user requirements into a functional prototype and scalable solution.
+- Gained hands-on experience in applying Systems Analysis techniques to real-world problems.
+- Improved skills in creating detailed UML diagrams and ERDs to visualize system architecture.
+- Learned how to translate user requirements into a functional prototype and scalable solution.
